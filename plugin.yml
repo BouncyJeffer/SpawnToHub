@@ -1,0 +1,8 @@
+name: SpawnToHub
+main: SpawnToHub\Main
+version: 1.0.0dev
+api: [1.0.0]
+
+load: POSTWORLD
+authors: [Lazer, BouncyJeffer]
+description: force every player to the main world everytime they join!
