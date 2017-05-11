@@ -15,5 +15,7 @@ class Main extends PluginBase implements Listener{
         $this->getServer()->getPluginManager()->registerEvents($this, $this);
         $this->getLogger()->log("SpawnToHub Enabled!");
     }
-    
-    //to-do finish off plugin
+    public function onJoin(PlayerJoinEvent $event){
+$event->getPlayer->teleport($this->getServer()->getDefaultLevel()->getSafeSpawn());
+}
+    //add the stuff into the to-do issue
