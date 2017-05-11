@@ -1,8 +1,7 @@
 name: SpawnToHub
 main: SpawnToHub\Main
-version: 1.0.0dev
-api: [1.0.0]
-
-load: POSTWORLD
 authors: [Lazer, BouncyJeffer]
+version: 1.0.0dev
+api: 1.0.0
+
 description: Spawn in the server hub everytime you join.
