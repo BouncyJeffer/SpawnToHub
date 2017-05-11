@@ -5,4 +5,4 @@ api: [1.0.0]
 
 load: POSTWORLD
 authors: [Lazer, BouncyJeffer]
-description: force every player to the main world everytime they join!
+description: Spawn in the server hub everytime you join.
