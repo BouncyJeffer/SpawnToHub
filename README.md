@@ -1,2 +1,3 @@
 # SpawnToHub
-Spawn in the server hub everything you join.
+
+Spawn in the server hub everytime you rejoin!
